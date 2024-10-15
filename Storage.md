@@ -80,8 +80,8 @@ Bigtable = NoSQL big data database service.
 | | Web frameworks and existing applications. | |
 | Spanner | Full SQL support for an online transaction processing system. | Petabytes. |
 | | Horizontal scalabilityPetabytes. | |
-| Firestore | Massive scaling and predictability together with real time query results and offline query support | Terabytes. Max unit size: 1 MB per entity.  | 
-| Bigtable | Storing large amount of structured objects | Petabytes. Max unit size: 10 MB p/cell, 100 MB p/row. |
+| Firestore | Massive scaling and predictability together with real time query results and offline query support. | Terabytes. Max unit size: 1 MB per entity.  | 
+| Bigtable | Storing large amount of structured objects. | Petabytes. Max unit size: 10 MB p/cell, 100 MB p/row. |
 ||Does not support SQL queries and multi-row transactions. ||
 ||Analytical data with heavy read and write events. ||
 
