@@ -76,14 +76,14 @@ Bigtable = NoSQL big data database service.
 | Option | Best for | Capacity |
 | :---------------: | --------------- | ------------------ |
 | Cloud Storage | Storing immutable blobs larger than 10 MB. | Petabytes. Max unit size: 5 TB per object. |
-| Cloud SQL | Full SQL support for an online transaction processing system. | Up to 64 TB |
+| Cloud SQL | Full SQL support for an online transaction processing system. | Up to 64 TB. |
 | | Web frameworks and existing applications. | |
-| Spanner | Full SQL support for an online transaction processing system. | Petabytes |
-| | Horizontal scalabilityPetabytes | |
-| Firestore | Massive scaling and predictability together with real time query results and offline query support | Terabytes. Max unit size: 1 MB per entity  | 
-| Bigtable | Storing large amount of structured objects | Petabytes. Max unit size: 10 MB p/cell, 100 MB p/row |
-||Does not support SQL queries and multi-row transactions ||
-||Analytical data with heavy read and write events ||
+| Spanner | Full SQL support for an online transaction processing system. | Petabytes. |
+| | Horizontal scalabilityPetabytes. | |
+| Firestore | Massive scaling and predictability together with real time query results and offline query support | Terabytes. Max unit size: 1 MB per entity.  | 
+| Bigtable | Storing large amount of structured objects | Petabytes. Max unit size: 10 MB p/cell, 100 MB p/row. |
+||Does not support SQL queries and multi-row transactions. ||
+||Analytical data with heavy read and write events. ||
 
 
 
