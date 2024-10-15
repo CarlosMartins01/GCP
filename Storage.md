@@ -1,5 +1,5 @@
 
-# <center>Storage
+# <center>Storage</center>
 
 ### Cloud Storage
 
